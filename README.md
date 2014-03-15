@@ -16,3 +16,7 @@
 ### Dépendences
 
 * LiquidCrystal Library (normalement inclue par défaut dans l'IDE Arduino)
+
+### Remerciements
+
+Un grand merci à [Aloïs MICLO](mailto:aloismiclo@gmail.com) pour les branchements et le matériel !
