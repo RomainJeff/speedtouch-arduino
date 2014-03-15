@@ -12,3 +12,7 @@
 * 1 buzzer
 * 1 afficheur LCD
 * 1 potentiomètre (pour gérer les contrastes du LCD)
+
+### Dépendences
+
+* LiquidCrystal Library (normalement inclue par défaut dans l'IDE Arduino)
